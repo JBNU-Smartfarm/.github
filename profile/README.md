@@ -8,6 +8,7 @@
 - [석승원 & 송주연](https://github.com/EthanSeok/diary) - GUI 다이어리 개발
 
 #### 2023
+- [하다은](https://github.com/danuni29/final-project) - Pygame을 활용한 드래곤 게임 제작
 
 ### I 응용소프트웨어개발
 #### 2022
