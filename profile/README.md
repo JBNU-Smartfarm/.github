@@ -14,5 +14,6 @@
 #### 2022
 - [강다영 & 이수연 & 최수영](https://github.com/riverallzero/CouncilWebsite) - 스마트팜학과 학생회 웹사이트 개발
 - [김솔아 & 전혜진 & 황현성](https://github.com/ffe4el/DJango_sola) - Joen Tree🌲 회사 웹사이트 개발
+- [석승원 & 김대웅 & 박인애](https://ethanseok.github.io/projects/2022/12/20/softeng/) - 인공지능 맛집 지도 개발
 
 #### 2023
