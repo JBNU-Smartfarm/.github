@@ -15,7 +15,10 @@
 - [강다영 & 이수연 & 최수영](https://github.com/riverallzero/CouncilWebsite) - 스마트팜학과 학생회 웹사이트 개발
 - [김솔아 & 전혜진 & 황현성](https://github.com/ffe4el/DJango_sola) - Joen Tree🌲 회사 웹사이트 개발
 - [석승원 & 김대웅 & 박인애](https://ethanseok.github.io/projects/2022/12/20/softeng/) - 인공지능 맛집 지도 개발
+- [정재영 & 장희원 & 이종현](https://github.com/jungjae0/Farming-Diary) - 농사일지
 
 ### I 스마트농업프로그래밍
 #### 2023
 - [석승원 & 최수영](https://github.com/EthanSeok/Leaf_Area_Project) - 딥러닝 및 PlantCV를 이용한 엽면적 측정기 개발(아두이노)
+- [정재영 & 윤예진](https://github.com/jungjae0/LEC-AgProgramming/tree/main/07_RC) - 파종, 관수 RC카
+  
